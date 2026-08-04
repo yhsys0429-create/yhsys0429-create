@@ -1,7 +1,11 @@
 # Hi there 👋 I'm Yuhyeon!
 
 ### 📝 About Me
-- 🔭 **현재 진행 중인 프로젝트:** 
+- 🔭 **주요 프로젝트:**
+
+🎮 **[손 제스처 인식 미로 탈출 게임](git clone https://github.com/gayoung228/ExitMaze.git)**:  
+
+
 - 🌱 **요즘 열심히 공부하는 분야:** Python, AI SW
 - 💬 **질문은 언제나 환영합니다:** Python, 인공지능 관련 주제
 - 📫 **연락처:** (yhsys0429@gmail.com)
@@ -22,5 +26,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-
-git clone https://github.com/gayoung228/ExitMaze.git
