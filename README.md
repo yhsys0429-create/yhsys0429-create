@@ -23,4 +23,4 @@
 ---
 
 
-git clone [https://github.com/yhsys0429-create/Exitmaze.git](https://github.com/yhsys0429-create/Exitmaze.git)
+git clone [[https://github.com/yhsys0429-create/Exitmaze.git]([https://github.com/gayoung228/ExitMaze.git](https://github.com/gayoung228/ExitMaze.git)
