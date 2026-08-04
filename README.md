@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Yuhyun!
+# Hi there 👋 I'm Yuhyeon!
 
 ### 📝 About Me
-- 🔭 **현재 진행 중인 프로젝트:** 해상풍력 AI 하드웨어 프로젝트, PySide6 기반 GUI 개발
+- 🔭 **현재 진행 중인 프로젝트:** 
 - 🌱 **요즘 열심히 공부하는 분야:** Python, AI Hardware, 데이터 분석
 - 💬 **질문은 언제나 환영합니다:** Python, GUI 개발, 인공지능 관련 주제
-- 📫 **연락처:** (이메일 주소를 적어주세요)
+- 📫 **연락처:** (yhsys0429@gmail.com)
 
 ---
 
