@@ -3,7 +3,7 @@
 ### 📝 About Me
 - 🔭 **주요 프로젝트:**
 
-🎮 **[손 제스처 인식 미로 탈출 게임](git clone https://github.com/gayoung228/ExitMaze.git)**:  
+🎮 **[손 제스처 인식 미로 탈출 게임](https://github.com/gayoung228/ExitMaze.git)**:  
 
 
 - 🌱 **요즘 열심히 공부하는 분야:** Python, AI SW
