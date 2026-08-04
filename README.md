@@ -22,5 +22,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 📊 GitHub Stats
-![Yuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhsys0429-create&show_icons=true&theme=radial)
+
