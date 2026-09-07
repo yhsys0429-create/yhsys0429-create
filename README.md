@@ -6,6 +6,9 @@
 - 🎮 **[손 제스처 인식 미로 탈출 게임](https://github.com/gayoung228/ExitMaze.git)**:  
   Mediapipe, OpenCV 기반 모션 인식 프로젝트
 
+- 💪 **[멜레베이터 ](https://github.com/JuEuPy/kccistc-stm32-elevator.git)**:  
+   NUCLEO-F411RE 보드 활용 및 DC 모터 기반 프로젝
+
 - 🌱 **요즘 열심히 공부하는 분야:** Python, AI SW
 - 💬 **질문은 언제나 환영합니다:** Python, 인공지능 관련 주제
 - 📫 **연락처:** (yhsys0429@gmail.com)
