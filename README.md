@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yuhyeon!
+# 온디바이스 AI·임베디드 SW 개발자를 준비하는 유현
 
 ### 📝 About Me
 
